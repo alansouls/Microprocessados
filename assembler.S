@@ -261,11 +261,7 @@ POT10:
 	subs r5,r5,r5
 	B VOLTARBS
 
-IsLittleEndian:
-	subs r0,r0,r0
-	adds r0,#1
-	ldr r0,[r0]
-	B RETORNA
+
 
 
 
