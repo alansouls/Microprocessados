@@ -22,5 +22,3 @@ ret
 RETORNA1:
 ldr r0,=0x00000001
 ret
-
-
